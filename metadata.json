@@ -1,0 +1,6 @@
+{
+  "name": "Soapbox Car Innovation Workspace",
+  "description": "Interactive study and project workspace representing Parth Goswami's User-Centric Innovation Plan for the Soapbox Car at Technische Hochschule Deggendorf.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
